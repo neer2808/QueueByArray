@@ -1,5 +1,6 @@
 // implementation of Queue
 // by array  linear queue
+// just wrote a comment
 public class QueueByArray {
   int arr[];
   int beginning;
@@ -87,7 +88,6 @@ public class QueueByArray {
       System.out.println(arr[i]);
     }
   }
-
 
 
 
